@@ -1,0 +1,16 @@
+{
+    "name": "Webcam PWA",
+    "short_name": "Webcam PWA",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ADD8E6",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "new_icon.png",
+        "sizes": "150x150",
+        "type": "image/png",
+        "purpose": "any"
+      }
+    ]
+} 
